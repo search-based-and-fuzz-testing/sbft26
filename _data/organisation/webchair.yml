@@ -1,8 +1,14 @@
-- name: Rubén Ruiz-Torrubiano
-  webpage: https://www.fh-krems.ac.at/en/university/team/ruben-ruiz-torrubiano/
-  institution: IMC Krems University of Applied Sciences, Austria
-  pic: /img/ruben.png
-- name: Antony Bartlett
-  webpage: https://codegonewild.com
-  institution: Delft University of Technology, The Netherlands
-  pic: /img/antonyb.png
+- name: Matteo Biagiola
+  webpage: https://matteobiagiola.github.io
+  institution: Università della Svizzera italiana, Lugano, Switzerland
+  pic: /img/biagiola.jpg
+
+# - name: Rubén Ruiz-Torrubiano
+#   webpage: https://www.fh-krems.ac.at/en/university/team/ruben-ruiz-torrubiano/
+#   institution: IMC Krems University of Applied Sciences, Austria
+#   pic: /img/ruben.png
+
+# - name: Antony Bartlett
+#   webpage: https://codegonewild.com
+#   institution: Delft University of Technology, The Netherlands
+#   pic: /img/antonyb.png
