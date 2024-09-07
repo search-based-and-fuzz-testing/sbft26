@@ -2,17 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
+  <!-- <url>
     <loc>/categories/</loc>
-  </url>
+  </url> -->
   
-  <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
+  <!-- <url>
     <loc>/keynotes/</loc>
-  </url>
+  </url> -->
   
   <url>
     <loc>/organisation/</loc>
