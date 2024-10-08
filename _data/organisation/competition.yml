@@ -3,10 +3,10 @@
 #   institution: Università della Svizzera Italiana, Switzerland
 #   pic: /img/biagiola.jpg
 
-- name: Stefan Klikovits
-  webpage: https://klikovits.net/
-  institution: National institute of Informatics, Japan
-  pic: /img/stefan.jfif
+# - name: Stefan Klikovits
+#   webpage: https://klikovits.net/
+#   institution: National institute of Informatics, Japan
+#   pic: /img/stefan.jfif
 
 # - name: Valerio Terragni
 #   webpage: https://valerio-terragni.github.io/
@@ -15,8 +15,13 @@
 
 - name: Sajad Khatiri
   webpage: https://skhatiri.ir/
-  institution:  USI-Lugano, Switzerland
+  institution:  Zurich University of Applied Sciences & Università della Svizzera italiana, Switzerland
   pic: /img/sajad.jpg
+
+- name: Dmytro Humeniuk
+  webpage: https://dgumenyuk.github.io/
+  institution:  Polytechnique Montréal, Canada
+  pic: /img/dmytro.jpg
 
 - name: Christian Birchler
   institution: Zurich University of Applied Sciences, Switzerland & University of Bern, Switzerland
@@ -25,7 +30,7 @@
 
 - name: Sebastiano Panichella
   webpage: https://spanichella.github.io
-  institution: Zurich University of Applied Sciences, Switzerland
+  institution: University of Bern, Switzerland
   pic: /img/sebastiano.png
 
 # - name: José Campos
@@ -44,10 +49,10 @@
 #   institution: University of Passau, Germany
 #   pic: /img/lukasczyk.jpg
 
-# - name: Prasun Saurabh
-#   webpage: https://www.linkedin.com/in/prasun-saurabh-010378118/
-#   institution: Zurich University of Applied Sciences
-#   pic: /img/prasun.png
+- name: Prasun Saurabh
+  webpage: https://www.linkedin.com/in/prasun-saurabh-010378118/
+  institution: Zurich University of Applied Sciences
+  pic: /img/prasun.png
 
 # - name: Pouria Derakhshanfar
 #   webpage: https://pouria-d.me

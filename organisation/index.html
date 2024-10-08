@@ -17,7 +17,7 @@ layout: default
       </div>
     </div>
     <br>
-    <!-- <div class="container">
+    <div class="container">
       <h2 class="title">Competition Co-Chairs</h2>
       <div class="team">
         <div class="row">
@@ -27,9 +27,9 @@ layout: default
           {% endfor %}
         </div>
       </div>
-    </div> -->
-    <!-- <br> -->
-    <!-- <div class="container">
+    </div>
+    <br>
+    <div class="container">
       <h2 class="title">Finance Chair</h2>
       <div class="team">
         <div class="row">
@@ -39,7 +39,7 @@ layout: default
           {% endfor %}
         </div>
       </div>
-    </div> -->
+    </div>
     <br>
     <div class="container">
       <h2 class="title">Website Co-Chairs</h2>
@@ -53,17 +53,17 @@ layout: default
       </div>
     </div>
     <br>
-    <!-- <div class="container">
-      <h2 class="title">Education Track Co-Chairs</h2>
+    <div class="container">
+      <h2 class="title">Social Co-Chairs</h2>
       <div class="team">
         <div class="row">
-          {% assign members = site.data.organisation.education | sort: "name" %}
+          {% assign members = site.data.organisation.social | sort: "name" %}
           {% for member in members %}
           {%- include member.html -%}
           {% endfor %}
         </div>
       </div>
-    </div> -->
+    </div>
     <!--
     <div class="container">
       <h2 class="title">Virtualisation Support & Student Volunteer</h2>
@@ -76,10 +76,10 @@ layout: default
         </div>
       </div>
     </div>-->
-    <!-- <br><br> -->
-    <!-- <div class="container">
+    <br><br>
+    <div class="container">
       <h2 class="title text-center">Program Committee</h2>
-      <h3 class="title text-center">Research Track</h3>
+      <!-- <h3 class="title text-center">Research Track</h3> -->
       <div class="table-condensed">
         <table class="committee-table">
           {% assign members = site.data.organisation.pc | sort: "name" %}
@@ -90,7 +90,7 @@ layout: default
           {% endfor %}
         </table>
       </div>
-      <p></p>
+      <!-- <p></p>
       <h3 class="title text-center">Education Track</h3>
       <div class="table-condensed">
         <table class="committee-table">
@@ -101,7 +101,7 @@ layout: default
           </tr>
           {% endfor %}
         </table>
-      </div>
-    </div> -->
+      </div> -->
+    </div>
   </div>
 </div>
