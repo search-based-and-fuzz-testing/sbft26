@@ -17,21 +17,25 @@
   webpage: https://skhatiri.ir/
   institution:  Zurich University of Applied Sciences & Università della Svizzera italiana, Switzerland
   pic: /img/sajad.jpg
+  competition: CPS-UAV competition
 
 - name: Dmytro Humeniuk
   webpage: https://dgumenyuk.github.io/
   institution:  Polytechnique Montréal, Canada
   pic: /img/dmytro.jpg
+  competition: CPS-UAV competition
 
 - name: Christian Birchler
   institution: Zurich University of Applied Sciences, Switzerland & University of Bern, Switzerland
   webpage: https://www.christianbirchler.org
   pic: /img/christian.jpg
+  competition: CPS-UAV competition
 
 - name: Sebastiano Panichella
   webpage: https://spanichella.github.io
   institution: University of Bern, Switzerland
   pic: /img/sebastiano.png
+  competition: CPS-UAV competition
 
 # - name: José Campos
 #   webpage: https://jose.github.io/
@@ -53,6 +57,25 @@
   webpage: https://www.linkedin.com/in/prasun-saurabh-010378118/
   institution: Zurich University of Applied Sciences
   pic: /img/prasun.png
+  competition: CPS-UAV competition
+
+- name: Addison Crump
+  webpage: https://addisoncrump.info
+  institution: CISPA, Germany
+  pic: /img/addison.jpg
+  competition: Fuzzing competition
+
+- name: Matteo Leonelli
+  webpage: https://leonelli.github.io
+  institution: CISPA, Germany
+  pic: /img/matteoleonelli.jpeg
+  competition: Fuzzing competition
+
+- name: Sahil Sihag
+  webpage: https://cispa.de/en/people/c01sasi
+  institution: CISPA, Germany
+  pic: /img/sahil.jpg
+  competition: Fuzzing competition
 
 # - name: Pouria Derakhshanfar
 #   webpage: https://pouria-d.me
