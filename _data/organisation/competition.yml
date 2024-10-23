@@ -25,17 +25,36 @@
   pic: /img/dmytro.jpg
   competition: CPS-UAV competition
 
-- name: Christian Birchler
-  institution: Zurich University of Applied Sciences, Switzerland & University of Bern, Switzerland
-  webpage: https://www.christianbirchler.org
-  pic: /img/christian.jpg
+- name: Tahereh Zohdinasab
+  webpage: https://scholar.google.com/citations?user=aZthkFMAAAAJ&hl=en
+  institution:  Università della Svizzera italiana, Switzerland
+  pic: /img/tara.jpg
   competition: CPS-UAV competition
 
 - name: Sebastiano Panichella
   webpage: https://spanichella.github.io
   institution: University of Bern, Switzerland
   pic: /img/sebastiano.png
-  competition: CPS-UAV competition
+  competition: CPS-UAV competition & SDC competition
+
+
+- name: Stefan Klikovits
+  webpage: https://klikovits.net/
+  institution: Johannes Kepler University Linz, Austria
+  pic: /img/stefan.jpg
+  competition: SDC competition
+
+- name: Mattia Fazzini
+  webpage: https://www-users.cse.umn.edu/~mfazzini/
+  institution:  University of Minnesota, United States
+  pic: /img/mattia-fazzini.jpg
+  competition: SDC competition
+
+- name: Christian Birchler
+  institution: Zurich University of Applied Sciences, Switzerland & University of Bern, Switzerland
+  webpage: https://www.christianbirchler.org
+  pic: /img/christian.jpg
+  competition: SDC competition
 
 # - name: José Campos
 #   webpage: https://jose.github.io/
