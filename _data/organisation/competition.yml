@@ -96,6 +96,19 @@
   pic: /img/sahil.jpg
   competition: Fuzzing competition
 
+- name: Yun Lin
+  webpage: http://linyun.info
+  institution: Shanghai Jiao Tong University, China
+  pic: /img/yun-lin.png
+  competition: Java competition
+
+- name: Fitsum Kifetew
+  webpage: https://kifetew.github.io
+  institution: Fondazione Bruno Kessler, Italy
+  pic: /img/fitsum.jpeg
+  competition: Java competition
+
+
 # - name: Pouria Derakhshanfar
 #   webpage: https://pouria-d.me
 #   institution: JetBrains Research
