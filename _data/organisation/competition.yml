@@ -108,6 +108,11 @@
   pic: /img/fitsum.jpeg
   competition: Java competition
 
+- name: Davide Prandi
+  webpage: https://se.fbk.eu/team/prandi
+  institution: Fondazione Bruno Kessler, Italy
+  pic: /img/davide-prandi.png
+  competition: Java competition
 
 # - name: Pouria Derakhshanfar
 #   webpage: https://pouria-d.me
