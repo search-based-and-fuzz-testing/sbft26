@@ -37,8 +37,10 @@ We wish all competitors the best of luck and look forward to their submissions!
 * Competition results will be reported live at SBST’24. -->
 
 ## Timeline
-* **December 6th: Registration deadline.**
-* December 9th: Acceptance notification
+* ~~**December 6th: Registration deadline**~~
+* **December 13th: Registration deadline**
+* ~~December 9th: Acceptance notification~~
+* December 16th: Acceptance notification
 * **January 6th: First PR deadline**
 * January 13th: Preliminary results revealed
 * **January 20th: Second PR deadline (e.g., for bugfixes/improvements)**
