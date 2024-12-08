@@ -24,7 +24,7 @@ Contestants this year, guided by this scoring system, should **submit open-sourc
 
 In addition to submitting a fuzzer, contestants must also submit an **OSS-Fuzz target** which is *not yet in Fuzzbench*. We encourage contestants to submit targets for which their fuzzers are capable of finding edges that are otherwise difficult to find.
 
-To take part, [register your submission](https://forms.gle/X559Fs36nv1w6M2x9){:target="_blank"} by December 6th, then **provide your submission as a pull request** to the [Fuzzbench repository](https://github.com/google/fuzzbench/pulls){:target="_blank"} by January 6th. Then, provide your tool report by February 4th.
+To take part, [register your submission](https://forms.gle/X559Fs36nv1w6M2x9){:target="_blank"} by ~~December 6th~~ December 13th, then **provide your submission as a pull request** to the [Fuzzbench repository](https://github.com/google/fuzzbench/pulls){:target="_blank"} by January 6th. Then, provide your tool report by February 4th.
 
 We wish all competitors the best of luck and look forward to their submissions!
 
