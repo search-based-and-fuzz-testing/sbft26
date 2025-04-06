@@ -1,14 +1,5 @@
-- title: FOX- Coverage-guided Fuzzing as Online Stochastic Control
-  authors: Dongdong She, Adam Storek, Seoyoung Kweon, Prashast Srivastava, Suman Jana
+- title: KRAKEN-FUZZ - Minimizing Corpus During Fuzzing
+  authors: Jikai Wang, Yuekang Li, Kailong Wang 
 
-- title: BANDFUZZ- Harnessing Bandit Algorithms for Enhanced Collaborative Fuzzing Performance
-  authors: Wenxuan Shi, Hongwei Li
-
-- title: TuneFuzz- Adaptively Exploring Target Programs
-  authors: Han Zheng, Flavio Toffalini, Mathias Payer
-
-- title: MYSTIQUE- Enhancing Mutators in Fuzzing Techniques
-  authors: Jikai Wang, Yuekang Li, Kailong Wang
-
-- title: Pastis at the SBFT 2024 Tool Competition -  Fuzzing Track
-  authors: Christian Heitman, Robin David
+- title: HFuzz - Havoc Mode Guided Fuzzing
+  authors: Yuchong Xie, Dongdong She 

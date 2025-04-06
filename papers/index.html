@@ -1,12 +1,9 @@
 ---
-title: SBFT'24 Accepted Papers
+title: SBFT'25 Accepted Papers
 layout: default
 ---
 <div class="col-md-8 ml-auto mr-auto text-left">
     <h1 class="title">Accepted Papers and Tools</h1>
-
-    <!-- <p>To be defined.</p>
-    <br> -->
     
     <div class="container">
         <h3>Research Track</h3>
@@ -25,18 +22,6 @@ layout: default
         <div class="table-condensed">
             <table class="committee-table">
                 {% assign papers = site.data.program.compreports | sort: "title" %}
-                {% include paper_section.html %}
-            </table>
-        </div>
-    </div>
-
-    <br>
-
-    <div class="container">
-        <h3>Python Competition</h3>
-        <div class="table-condensed">
-            <table class="committee-table">
-                {% assign papers = site.data.program.pytools | sort: "title" %}
                 {% include paper_section.html %}
             </table>
         </div>

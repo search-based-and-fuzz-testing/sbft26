@@ -1,11 +1,17 @@
-- title: Generator-based Fuzzing with Input Features
-  authors: Roman Kraus, Hoang Lam Nguyen, Martin A. Schneider
+- title: AutoStub - Genetic Programming-Based Stub Creation for Symbolic Execution
+  authors: Felix Mächtle, Nils Loose, Jan-Niclas Serr, Jonas Sander, Thomas Eisenbarth
 
-- title: Diversity-guided Search Exploration for Self-driving Cars Test Generation through Frenet Space Encoding
-  authors: Timo Blattner, Christian Birchler, Timo Kehrer, Sebastiano Panichella
+- title: Mimicry-Based Testing of Runtime SQLi Prevention Approaches
+  authors: Anjana Perera, François Gauthier, Kostyantyn Vorobyov, Matthew Harris, Padmanabhan Krishnan
 
-- title: Automated Boundary Identification for Machine Learning Classifiers
-  authors: Felix Dobslaw, Robert Feldt
+- title: DeepUIFuzz - A Guided Fuzzing Strategy for Testing UI Component Detection Models
+  authors: Proma Chowdhury, Kazi Sakib
 
-- title: Syntest-JavaScript- Automated Unit-Level Test Case Generation for JavaScript
-  authors: Mitchell Olsthoorn, Dimitri Stallenberg, Annibale Panichella
+- title: On Evaluating Fuzzers with Context-Sensitive Fuzzed Inputs - A Case Study on PKCS#1-v1.5
+  authors: S Mahmudul Hasan, Polina Kozyreva, Endadul Hoque
+
+- title: Multi-Phase Taint Analysis for JSON Inference in Search-Based Fuzzing
+  authors: Susruthan Seran, Onur Duman, Andrea Arcuri
+
+- title: Differential Performance Fuzzing of Configuration Options
+  authors: Haesue Baik, Chenyang Yang, Vasu Vikram, Pooyan Jamshidi, Rohan Padhye, Christian Kästner

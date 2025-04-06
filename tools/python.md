@@ -1,11 +1,11 @@
 ---
-title: SBFT'24 Python Competition Instructions
+title: SBFT'25 Python Competition Instructions
 layout: md
 ---
 # Python Test Case Generation Tool Competition
 
 ## Timeline
-Important SBFT'24 Dates:
+Important SBFT'25 Dates:
 * Tool Competition Submission: **December 1 2023**
 * Competition report: 16. January 2024
 * Notification to authors: 21. December 2023

@@ -1,34 +1,24 @@
-#- name: Jim Whitehead  
-#  webpage: https://users.soe.ucsc.edu/~ejw/
-#  institution: University of California, Santa Cruz, USA
-#  pic: /img/jim_whitehead.jpg
+- name: Mariano Ceccato
+  webpage: https://profs.scienze.univr.it/~ceccato/
+  institution: University of Verona, Italy
+  pic: /img/mariano.jpg
 
-- name: Paolo Arcaini
-  webpage: https://group-mmm.org/~arcaini/
-  institution: National Institute of Informatics, Japan
-  pic: /img/parcaini.jpg
+- name: Marcel Böhme
+  webpage: https://www.mpi-sp.org/boehme
+  institution: Max Planck Institute for Security and Privacy (MPI-SP), Germany
+  pic: /img/marcel.jpeg
 
-- name: Caroline Lemieux  
-  webpage: https://www.carolemieux.com
-  institution: University of British Columbia, Canada
-  pic: /img/caroline_lemieux.png
+- name: Padmanabhan Krishnan
+  webpage: https://labs.oracle.com/pls/apex/f?p=labs:bio:0:986
+  institution: Oracle Labs, Brisbane, Australia
+  pic: /img/paddy_krishnan.jpg
 
-- name: Annibale Panichella
-  webpage: https://apanichella.github.io
-  institution: TU Delft, the Netherlands
-  pic: /img/apanichella.jpg
+- name: Aitor Arrieta
+  webpage: https://aitorarrietamarcos.github.io
+  institution: Mondragon University, Spain
+  pic: /img/aitor.jpg
 
-- name: Jie M. Zhang  
-  webpage: https://sites.google.com/view/jie-zhang/home
-  institution: King's College London, United Kingdom
-  pic: /img/jie_zhang.jpg
-
-- name: Andreas Zeller  
-  webpage: https://andreas-zeller.info
-  institution: CISPA and Saarland University, Germany
-  pic: /img/zeller.jpg
-
-- name: Aldeida Aleti
-  webpage: https://users.monash.edu.au/~aldeidaa/
-  institution: Department of Software Systems & Cybersecurity, Monash University
-  pic: /img/aldeida.jpg
+- name: Alessandra Gorla
+  webpage: https://software.imdea.org/~alessandra.gorla/
+  institution: IMDEA Software Institute, Spain
+  pic: /img/alessandra.jpg
