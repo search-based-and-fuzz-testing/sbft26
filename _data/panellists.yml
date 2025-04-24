@@ -18,10 +18,10 @@
   institution: Mondragon University, Spain
   pic: /img/aitor.jpg
 
-# - name: Alessandra Gorla
-#   webpage: https://software.imdea.org/~alessandra.gorla/
-#   institution: IMDEA Software Institute, Spain
-#   pic: /img/alessandra.jpg
+- name: Alessandra Gorla
+  webpage: https://software.imdea.org/~alessandra.gorla/
+  institution: IMDEA Software Institute, Spain
+  pic: /img/alessandra.jpg
 
 - name: Addison Crump
   webpage: https://addisoncrump.info
