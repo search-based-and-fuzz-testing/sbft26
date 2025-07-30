@@ -1,11 +1,34 @@
 <footer class="footer" data-background-color="black">
-    <div class="container">
-        <nav>
-            <ul>
-                <li>
-                    <a href="/"><i class='fa fa-balance-scale'></i> SBFT&#39;26</a>
-                </li>
-            </ul>
-        </nav>
-    </div>
+  <div class="container" id="footer-content">
+    <nav>
+      <ul>
+        <li>
+          <a href="/"><i class='fa fa-balance-scale'></i> SBFT&#39;26</a>
+          <!-- The attribution paragraph will be inserted here by JS if on base URL -->
+        </li>
+      </ul>
+    </nav>
+  </div>
 </footer>
+
+<script>
+  const path = window.location.pathname;
+
+  // Only if on the base URL
+  if (path === '/' || path === '') {
+    // Select the <li> containing the link
+    const li = document.querySelector('.footer .container nav ul li');
+
+    // Create the paragraph element
+    const p = document.createElement('p');
+    p.innerHTML = `
+      <a href="https://de.freepik.com/fotos-kostenlos/luftaufnahme-von-lagoa-in-rio-de-janeiro-brasilien_13291756.htm#fromView=keyword&page=1&position=20&uuid=62833d4c-3b61-4fcd-ba0f-7324e0c4254e&query=Rio+De+Janeiro">
+        Aerial view of Lagoa in Rio de Janeiro, Brazil
+      </a> by 
+      <a href="https://de.freepik.com/autor/wirestock">Wirestock</a> (Free use)
+    `;
+
+    // Append paragraph below the <a> inside the <li>
+    li.appendChild(p);
+  }
+</script>
