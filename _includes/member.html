@@ -1,6 +1,6 @@
 <div class="col-md-4">
     <div class="team-player">
-        <img src="{% if member.pic %}{{member.pic}}{% else %}/img/default-avatar.png{% endif %}" alt="Thumbnail Image" class="rounded-circle img-fluid img-raised profile-picture">
+        <img src="{% if member.pic %}{{ site.baseurl }}/{{ member.pic }}{% else %}{{ site.baseurl }}/img/default-avatar.png{% endif %}" alt="Thumbnail Image" class="rounded-circle img-fluid img-raised profile-picture">
         <h4>{{member.name}}</h4>
         <p class="category text-primary">{{member.institution}}</p>
         {% if member.competition %}
