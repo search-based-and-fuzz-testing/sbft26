@@ -1,19 +1,19 @@
-- name: Gunel Jahangirova
-  webpage: https://sites.google.com/view/guneljahangirova
-  institution: King's College London, United Kingdom
-  pic: img/gunel.jpg
+- name: Jinhan Kim
+  webpage: https://jinhan.me
+  institution: Jinhan Kim, Università della Svizzera italiana, Lugano, Switzerland
+  pic: img/jinhan.jpg
 
-- name: Vincenzo Riccio
-  webpage: https://p1ndsvin.github.io/
-  institution: University of Udine, Italy
-  pic: img/vincenzo.png
+- name: Mitchell Olsthoorn
+  webpage: https://www.mitchellolsthoorn.com
+  institution: Delft University of Technology, Delft, The Netherlands
+  pic: img/mitchell.jpg
 
 - name: Matteo Biagiola
   webpage: https://matteobiagiola.github.io
-  institution: Università della Svizzera italiana, Lugano, Switzerland
+  institution: University of St. Gallen / Università della Svizzera italiana, St.Gallen/Lugano, Switzerland
   pic: img/biagiola.jpg
   
-- name: 4th Co-Chair
-  webpage: TBD
-  institution: TBD
-  pic: TBD
+- name: Seongmin Lee
+  webpage: https://nimgnoeseel.github.io
+  institution: University of California Los Angeles, Los Angeles, USA
+  pic: img/seongmin.webp

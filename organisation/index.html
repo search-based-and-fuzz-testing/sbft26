@@ -21,7 +21,7 @@ layout: default
       <h2 class="title">Website Chair</h2>
       <div class="team">
         <div class="row">
-          {% assign members = site.data.organisation.webchair %}
+          {% assign members = site.data.organisation.webchair | sort: "name" %}
           {% for member in members %}
           {%- include member.html -%}
           {% endfor %}
@@ -40,12 +40,12 @@ layout: default
         </div>
       </div>
     </div>
-    <br>
+    <br> -->
     <div class="container">
       <h2 class="title">Finance Chair</h2>
       <div class="team">
         <div class="row">
-          {% assign members = site.data.organisation.financechair %}
+          {% assign members = site.data.organisation.financechair | sort: "name" %}
           {% for member in members %}
           {%- include member.html -%}
           {% endfor %}
@@ -53,7 +53,7 @@ layout: default
       </div>
     </div>
     
-    <br> -->
+    <br>
     <!-- <div class="container">
       <h2 class="title">Social Co-Chairs</h2>
       <div class="team">
@@ -78,7 +78,7 @@ layout: default
         </div>
       </div>
     </div>-->
-    <br><br>
+    <!-- <br><br>
     <div class="container">
       <h2 class="title text-center">Program Committee</h2>
       <div class="table-condensed">
@@ -90,7 +90,7 @@ layout: default
           </tr>
           {% endfor %}
         </table>
-      </div>
+      </div> -->
       <!-- <p></p>
       <h3 class="title text-center">Education Track</h3>
       <div class="table-condensed">
