@@ -26,17 +26,17 @@
   pic: /img/dmytro.jpg
   competition: SDC competition
 
-- name: Prakash Aryan
-  institution: University of Bern, Switzerland
-  webpage: https://www.prakasharyan.com
-  pic: /img/anon.jpg
-  competition: SDC competition
+# - name: Prakash Aryan
+#   institution: University of Bern, Switzerland
+#   webpage: https://www.prakasharyan.com
+#   pic: /img/anon.jpg
+#   competition: SDC competition
 
-- name: Sebastiano Panichella
-  institution: University of Bern, Switzerland
-  webpage: https://spanichella.github.io
-  pic: /img/sebastiano.jpg
-  competition: SDC competition
+# - name: Sebastiano Panichella
+#   institution: University of Bern, Switzerland
+#   webpage: https://spanichella.github.io
+#   pic: /img/sebastiano.jpg
+#   competition: SDC competition
 
 
 ## CPS-UAV competition
@@ -57,7 +57,7 @@
   institution: University of Bern, Switzerland
   webpage: https://www.prakasharyan.com
   pic: /img/anon.jpg
-  competition: SDC competition
+  competition: SDC competition & CPS-UAV competition
 
 - name: Luigi Libero Lucio Starace
   institution: University of Naples Federico II, Italy
