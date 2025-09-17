@@ -1,48 +1,75 @@
-## CPS-UAV competition
-
-- name: Sajad Khatiri
-  webpage: https://skhatiri.ir/
-  institution:  Zurich University of Applied Sciences & Università della Svizzera italiana, Switzerland
-  pic: /img/sajad.jpg
-  competition: CPS-UAV competition
-
-- name: Dmytro Humeniuk
-  webpage: https://dgumenyuk.github.io/
-  institution:  Polytechnique Montréal, Canada
-  pic: /img/dmytro.jpg
-  competition: CPS-UAV competition
-
-- name: Tahereh Zohdinasab
-  webpage: https://scholar.google.com/citations?user=aZthkFMAAAAJ&hl=en
-  institution:  Università della Svizzera italiana, Switzerland
-  pic: /img/tara.jpg
-  competition: CPS-UAV competition
-
-- name: Sebastiano Panichella
-  webpage: https://spanichella.github.io
-  institution: University of Bern, Switzerland
-  pic: /img/sebastiano.png
-  competition: CPS-UAV competition & SDC competition
-
 ## SDC competition
 
-- name: Stefan Klikovits
-  webpage: https://klikovits.net/
-  institution: Johannes Kepler University Linz, Austria
-  pic: /img/stefan.jpg
+- name: Sajad Mazraehkhatiri
+  institution: University of Bern, Switzerland
+  pic: /img/anon.jpg
   competition: SDC competition
 
-- name: Mattia Fazzini
-  webpage: https://www-users.cse.umn.edu/~mfazzini/
-  institution:  University of Minnesota, United States
-  pic: /img/mattia-fazzini.jpg
+- name: Aren Babikian
+  institution: University of Toronto, Canada
+  webpage: https://arenbabikian.github.io
+  pic: /img/anon.jpg
   competition: SDC competition
+
+- name: Ali Javadi
+  institution: University of Bern, Switzerland
+  pic: /img/anon.jpg
+  competition: SDC competition
+
+- name: Ramazan Erdem Uysal
+  institution: University of Bern, Switzerland
+  pic: /img/anon.jpg
+  competition: SDC competition
+
+- name: Dmytro Humeniuk 
+  institution: Polytechnique Montréal, Canada
+  pic: /img/dmytro.jpg
+  competition: SDC competition
+
+- name: Prakash Aryan
+  institution: University of Bern, Switzerland
+  webpage: https://www.prakasharyan.com
+  pic: /img/anon.jpg
+  competition: SDC competition
+
+- name: Sebastiano Panichella
+  institution: University of Bern, Switzerland
+  webpage: https://spanichella.github.io
+  pic: /img/sebastiano.jpg
+  competition: SDC competition
+
+
+## CPS-UAV competition
 
 - name: Christian Birchler
   institution: Zurich University of Applied Sciences, Switzerland & University of Bern, Switzerland
   webpage: https://www.christianbirchler.org
   pic: /img/christian.jpg
   competition: SDC competition
+
+- name: Tommaso Fulcini
+  institution: Politecnico di Torino, Italy
+  webpage: https://www.polito.it/en/staff?p=tommaso.fulcini
+  pic: /img/anon.jpg
+  competition: SDC competition
+
+- name: Prakash Aryan
+  institution: University of Bern, Switzerland
+  webpage: https://www.prakasharyan.com
+  pic: /img/anon.jpg
+  competition: SDC competition
+
+- name: Luigi Libero Lucio Starace
+  institution: University of Naples Federico II, Italy
+  webpage: https://luistar.github.io/
+  pic: /img/anon.jpg
+  competition: SDC competition
+
+- name: Sebastiano Panichella
+  institution: University of Bern, Switzerland
+  webpage: https://spanichella.github.io
+  pic: /img/sebastiano.jpg
+  competition: SDC competition & CPS-UAV competition
 
 ## REST League
 
