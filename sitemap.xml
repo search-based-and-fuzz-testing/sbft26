@@ -14,7 +14,7 @@
     <loc>/organisation/</loc>
   </url>
   
-  <url>
+  <!-- <url>
     <loc>/program/</loc>
   </url>
   
@@ -28,6 +28,6 @@
   
   <url>
     <loc>/tags/</loc>
-  </url>
+  </url> -->
   
 </urlset>
