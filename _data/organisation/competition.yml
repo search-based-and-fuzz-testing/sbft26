@@ -1,17 +1,4 @@
-# - name: Matteo Biagiola
-#   webpage: https://scholar.google.com/citations?user=1mn0tisAAAAJ&hl=en
-#   institution: Università della Svizzera Italiana, Switzerland
-#   pic: /img/biagiola.jpg
-
-# - name: Stefan Klikovits
-#   webpage: https://klikovits.net/
-#   institution: National institute of Informatics, Japan
-#   pic: /img/stefan.jfif
-
-# - name: Valerio Terragni
-#   webpage: https://valerio-terragni.github.io/
-#   institution: The University of Auckland, New Zealand
-#   pic: /img/valerio.jpg
+## CPS-UAV competition
 
 - name: Sajad Khatiri
   webpage: https://skhatiri.ir/
@@ -37,6 +24,7 @@
   pic: /img/sebastiano.png
   competition: CPS-UAV competition & SDC competition
 
+## SDC competition
 
 - name: Stefan Klikovits
   webpage: https://klikovits.net/
@@ -56,95 +44,28 @@
   pic: /img/christian.jpg
   competition: SDC competition
 
-# - name: José Campos
-#   webpage: https://jose.github.io/
-#   institution: University of Porto, Portugal
-#   pic: /img/jose_campos.jpg
-#   email: jcmc@fe.up.pt
+## REST League
 
-# - name: Rahul Gopinath
-#   webpage: https://rahul.gopinath.org/
-#   institution: University of Sydney
-#   pic: /img/rgopinath.jpg
+- name: Michele Pasqua
+  webpage: https://michelepasqua.github.io
+  institution: University of Verona, Italy
+  pic: /img/michele.jpg
+  competition: REST League
 
-# - name: Stephan Lukasczyk
-#   webpage: https://www.lukasczyk.name
-#   institution: University of Passau, Germany
-#   pic: /img/lukasczyk.jpg
+- name: Mariano Ceccato
+  webpage: https://profs.scienze.univr.it/ceccato
+  institution: University of Verona, Italy
+  pic: /img/mariano.jpg
+  competition: REST League
 
-- name: Prasun Saurabh
-  webpage: https://www.linkedin.com/in/prasun-saurabh-010378118/
-  institution: Zurich University of Applied Sciences
-  pic: /img/prasun.png
-  competition: CPS-UAV competition
+- name: Sofia Mari
+  webpage: https://www.sofiamari.com
+  institution: University of Verona, Italy
+  pic: /img/sofia.jpg
+  competition: REST League
 
-- name: Addison Crump
-  webpage: https://addisoncrump.info
-  institution: CISPA, Germany
-  pic: /img/addison.jpg
-  competition: Fuzzing competition
-
-- name: Matteo Leonelli
-  webpage: https://leonelli.github.io
-  institution: CISPA, Germany
-  pic: /img/matteoleonelli.jpeg
-  competition: Fuzzing competition
-
-- name: Sahil Sihag
-  webpage: https://cispa.de/en/people/c01sasi
-  institution: CISPA, Germany
-  pic: /img/sahil.jpg
-  competition: Fuzzing competition
-
-- name: Yun Lin
-  webpage: http://linyun.info
-  institution: Shanghai Jiao Tong University, China
-  pic: /img/yun-lin.png
-  competition: Java competition
-
-- name: Fitsum Kifetew
-  webpage: https://kifetew.github.io
-  institution: Fondazione Bruno Kessler, Italy
-  pic: /img/fitsum.jpeg
-  competition: Java competition
-
-- name: Davide Prandi
-  webpage: https://se.fbk.eu/team/prandi
-  institution: Fondazione Bruno Kessler, Italy
-  pic: /img/davide-prandi.png
-  competition: Java competition
-
-# - name: Pouria Derakhshanfar
-#   webpage: https://pouria-d.me
-#   institution: JetBrains Research
-#   pic: /img/pouria.jpg
-
-# - name: Nicolas Erni
-#   webpage: https://www.zhaw.ch/en/about-us/person/gann/
-#   institution: Zurich University of Applied Sciences, Switzerland
-#   pic: /img/erni.jpg
-
-# - name: Huaming Chen
-#   webpage: https://www.sydney.edu.au/engineering/about/our-people/academic-staff/huaming-chen.html
-#   institution: University of Sydney, Australia
-#   pic: /img/huaming.jpg
-
-# - name: Xi Wu
-#   webpage: https://www.sydney.edu.au/engineering/about/our-people/academic-staff/xi-wu.html
-#   institution: University of Sydney, Australia
-#   pic: /img/xi_wu.jpg
-
-# - name: Philipp Görz
-#   webpage: https://cispa.de/en/people/c01phgo
-#   institution: Helmholtz Center for Information Security, Germany
-#   pic: /img/goers.png
-
-# - name: Joschua Schilling
-#   webpage: https://cispa.de/en/people/c03josc
-#   institution: Helmholtz Center for Information Security, Germany
-#   pic: /img/schilling.jpg
-
-# - name: Timothy Zimmermann
-#   webpage: https://www.linkedin.com/in/tim-zimmermann
-#   institution: Verity AG
-#   pic: /img/zimmermann.jpg
+- name: Davide Corradini
+  webpage: https://corradinidavi.de
+  institution: University of Luxembourg, Luxembourg
+  pic: /img/davide.jpg
+  competition: REST League
