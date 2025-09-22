@@ -1,15 +1,79 @@
-- name: 1st Program Committee Member
-  webpage: TBD
-  institution: TBD
+- name: Liyanage Danushka
+  email: danushka.liyanage@sydney.edu.au
+  institution: University of Sydney, Australia
+  pic: /img/anon.jpg
 
-- name: 2nd Program Committee Member
-  webpage: TBD
-  institution: TBD
+- name: Jeongju Sohn
+  email: jeongju.sohn@knu.ac.kr
+  institution: Kyungpook National University
+  pic: /img/anon.jpg
 
-- name: 3rd Program Committee Member
-  webpage: TBD
-  institution: TBD
+- name: Xavier Devroey
+  email: xavier.devroey@unamur.be
+  institution: University of Namur
+  pic: /img/anon.jpg
 
-- name: 4th Program Committee Member
-  webpage: TBD
-  institution: TBD
+- name: Flavio Toffalini
+  email: flavio.toffalini@rub.de
+  institution: Ruhr University Bochum
+  pic: /img/anon.jpg
+
+- name: Andrea Arcuri
+  email: andrea.arcuri@kristiania.no
+  institution: Kristiania
+  pic: /img/anon.jpg
+
+- name: Xuan Jifeng
+  email: jxuan@whu.edu.cn
+  institution: Wuhan University
+  pic: /img/anon.jpg
+
+- name: Stephan Lipp
+  email: sphlpp91@gmail.com
+  institution: Technical University of Munich
+  pic: /img/anon.jpg
+
+- name: Addison Crump
+  email: addison.crump@cispa.de
+  institution: CISPA
+  pic: /img/anon.jpg
+
+- name: Stefan Klikovits
+  email: stefan.klikovits@jku.at
+  institution: Johannes Kepler University Linz
+  pic: /img/anon.jpg
+
+- name: Ao Li
+  email: aoli@cs.cmu.edu
+  institution: Carnegie Mellon University
+  pic: /img/anon.jpg
+
+- name: Marat Akhin
+  email: marat.akhin@jetbrains.com
+  institution: JetBrains
+  pic: /img/anon.jpg
+
+- name: Thomas Vogel
+  email: thomas.vogel@informatik.hu-berlin.de
+  institution: Humboldt-Universität zu Berlin, Germany
+  pic: /img/anon.jpg
+
+- name: Fitsum Kifetew
+  email: kifetew@fbk.eu
+  institution: Fondazione Bruno Kessler
+  pic: /img/anon.jpg
+
+- name: Mijung Kim
+  email: mijungk@unist.ac.kr
+  institution: UNIST
+  pic: /img/anon.jpg
+
+- name: Moritz Schloegel
+  email: moritz.schloegel@asu.edu
+  institution: Arizona State University
+  pic: /img/anon.jpg
+
+- name: Davide Prandi
+  email: prandi@fbk.eu
+  institution: Bruno Kessler Foundation
+  pic: /img/anon.jpg
