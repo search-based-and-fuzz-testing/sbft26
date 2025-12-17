@@ -1,17 +1,11 @@
-- title: AutoStub - Genetic Programming-Based Stub Creation for Symbolic Execution
-  authors: Felix Mächtle, Nils Loose, Jan-Niclas Serr, Jonas Sander, Thomas Eisenbarth
+- title: Correlation-Guided Fuzz Testing for Aviation GNSS Receiver
+  authors: Nina Haag, Daniel Prun, Antoine Blais, Christophe Ouzeau
 
-- title: Mimicry-Based Testing of Runtime SQLi Prevention Approaches
-  authors: Anjana Perera, François Gauthier, Kostyantyn Vorobyov, Matthew Harris, Padmanabhan Krishnan
+- title: IPSM-Based Test Case Minimization for Network Protocol Implementations
+  authors: Ryutaro Nishizaka, Kazushi Kato, Yuichi Sugiyama
 
-- title: DeepUIFuzz - A Guided Fuzzing Strategy for Testing UI Component Detection Models
-  authors: Proma Chowdhury, Kazi Sakib
+- title: Detecting Server-Side Request Forgery (SSRF) Vulnerabilities In REST API Fuzz Testing
+  authors: Susruthan Seran, Guru Bhandari, Andrea Arcuri 
 
-- title: On Evaluating Fuzzers with Context-Sensitive Fuzzed Inputs - A Case Study on PKCS#1-v1.5
-  authors: S Mahmudul Hasan, Polina Kozyreva, Endadul Hoque
-
-- title: Multi-Phase Taint Analysis for JSON Inference in Search-Based Fuzzing
-  authors: Susruthan Seran, Onur Duman, Andrea Arcuri
-
-- title: Differential Performance Fuzzing of Configuration Options
-  authors: Haesue Baik, Chenyang Yang, Vasu Vikram, Pooyan Jamshidi, Rohan Padhye, Christian Kästner
+- title: Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing
+  authors: Nils Loose, Nico Winkel, Kristoffer Hempel, Felix Mächtle, Julian Hans, Thomas Eisenbarth
