@@ -10,57 +10,19 @@ layout: default
       <div class="team">
         <div class="row">
           <div class="team-player">
-            <img src="/img/mariano.jpg" alt="Thumbnail Image"
+            <img src="/sbft26/img/kevin.jpg" alt="Thumbnail Image"
               class="rounded-circle img-fluid img-raised profile-picture">
-            <h4 class="title">Mariano Ceccato</h4>
-            <p class="text-secondary">Associate professor in the Computer Science department at the University of Verona, Italy</p>
-            <h5 class="text-primary">Fuzzing Web APIs for Functional and Security Testing</h5>
+            <h4 class="title">Kevin Borgolte</h4>
+            <p class="text-secondary">Full professor for Software Security in the Faculty of Computer Science at Ruhr University Bochum (RUB), Germany</p>
+            <h5 class="text-primary">Who the Fuzz Cares About Code Coverage?</h5>
             <p class="text-justify">
               <strong>Abstract</strong>:
-              Web APIs are a cornerstone of modern web architectures, they are essential for integrating systems and building microservices architectures. Web APIs are more and more adopted to enable different services to communicate and share data seamlessly over the web. While in other programming domains (e.g., smartphone apps or web-sites) a GUI is typically available to suggest what next interactions can be taken (e.g., as available widgets or links), web APIs lack a graphical user interface and all the operations are equally available to a fuzzer even if not logically meaningful at each moment in time.
-              Automatically fuzzing web APIs requires to address peculiar challenges, including not only picking the most appropriate input data, but also fuzzing operations in an appropriate order even if no GUI is available to suggest a logical sequence of interactions. 
-              In this keynote I will cover the main research challenges to address to automatically fuzz web APIs. Moreover, I will touch some recent research achievements, including the use of deep reinforcement learning to train a fuzzing agent for functional testing, performing security testing based on test patterns, and the reusable research tools available to the research community to build on top.
+              Fuzzing is a major, if not the primary, approach for automated vulnerability discovery in software today. However, despite its success, real-world, long-running fuzzing campaigns often plateau, that is, they reach a state where/when they do not find new issues yet significant code remains unexplored, that is, the fuzzers have not even been able to search these areas for issues in the first place! The reason is simple: State-of-the-art fuzzers continue to leverage code coverage to measure progress, but it is often inadequate to model or capture all program behaviors, boxing themselves in. By choice, we arbitrarily prevent our own fuzzers from finding new and interesting bugs. In this talk, we will explore ideas how we can take our fuzzers' blinders off, in particular to see how we can expand from traditional memory corruptions to better discover entire different classes of vulnerabilities.
             </p>
-           <p class="text-justify">
+           <!-- <p class="text-justify">
              <strong>Slides</strong>:
-             The slides of Mariano's keynote are available <strong><a href="/share/fuzzing-web-apis-mariano-ceccato.pdf" target="_blank">here</a></strong>.
-           </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="team-player">
-            <img src="/img/marcel.jpeg" alt="Thumbnail Image"
-              class="rounded-circle img-fluid img-raised profile-picture">
-            <h4 class="title">Marcel Böhme </h4>
-            <p class="text-secondary">Faculty member at the Max Planck Institute for Security and Privacy (MPI-SP), Germany</p>
-            <h5 class="text-primary">On the Promises and Perils of Benchmarking to Measure Capabilities</h5>
-            <p class="text-justify">
-              <strong>Abstract</strong>:
-              How do we know how well our tool solves a problem, like bug finding, compared to other state-of-the-art tools? We run a benchmark. We choose a few representative instances of the problem, define a reasonable measure of success, and identify and mitigate various threats to validity. Finally, we implement (or reuse) a benchmarking framework, and compare the results for our tool with those for the state-of-the-art.
-              For many important software engineering problems, we have seen new sparks of interest and serious progress made whenever a (substantially better) benchmark became available. Benchmarks are our measure of progress. Without them, we have no empirical support to our claims of effectiveness. Yet, time and again, we see practitioners disregard entire technologies as "paper-ware"---far from solving the problem they set out to solve.
-              In this keynote, I will discuss our recent efforts to systematically study the degree to which our evaluation methodologies allow us to measure those capabilities that we aim to measure. We shed new light on a long-standing dispute about code coverage as a measure of testing effectiveness, explore the impact of the specific benchmark configuration on the evaluation outcome, and call into question the actual versus measured progress of an entire field (ML4VD) just as it gains substantial momentum and interest.
-            </p>
-            <p class="text-justify">
-             <strong>Slides</strong>:
-             The slides of Marcel's keynote are available <strong><a href="/share/benchmarks-measure-of-progress-marcel-boehme.pdf" target="_blank">here</a></strong>.
-            </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="team-player">
-            <img src="/img/alessandra.jpg" alt="Thumbnail Image"
-              class="rounded-circle img-fluid img-raised profile-picture">
-            <h4 class="title">Alessandra Gorla</h4>
-            <p class="text-secondary">Associate professor at the IMDEA Software Institute in Madrid, Spain</p>
-            <h5 class="text-primary">Search-based Inference of Class Invariants</h5>
-            <p class="text-justify">
-              <strong>Abstract</strong>:
-              Many techniques in formal verification and software testing rely on repOk routines to verify the consistency and validity of software components with complex data representations. A repOk function encodes the state properties necessary for an instance to be a valid object of the class under analysis, enabling early error detection and simplifying debugging. However, writing a correct and complete repOk can be challenging, even for advanced Large Language Models (LLMs). In this talk I will introduce Express, the first search-based algorithm designed to automatically generate a correct repOk for a given class. Express leverages simulated annealing, using the source code and test suite of the class under analysis to iteratively construct a repOk. 
-            </p>
-            <!-- <p class="text-justify">
-             <strong>Slides</strong>:
-             The slides of Alessandra's keynote are available <strong><a href="/share/express-search-based-inference-class-invariants-alessandra-gorla.pdf" target="_blank">here</a></strong>.
-            </p> -->
+             The slides of Kevin's keynote are available <strong><a href="/share/who-the-fuzz-cares-kevin-borgolte.pdf" target="_blank">here</a></strong>.
+           </p> -->
           </div>
         </div>
       </div>
